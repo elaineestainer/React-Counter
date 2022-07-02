@@ -1,0 +1,38 @@
+p {
+    font-size: 6rem;
+    color: #fca89d;
+    font-weight: 700;
+}
+
+.button {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;   
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 50%;
+    font-weight: bold;
+    background-color: #fff;
+    width: 4rem;
+    height: 4rem;
+    color: #998b82;
+    box-shadow: 0px 0px 10px #998b82;
+    border: none;
+    cursor: pointer;
+   
+}
+
+button:hover{
+    background-color: #afc7b9;
+}
+
+.negative {
+    color: red;   
+}
+
+.positive {
+    color: #4eb3de;   
+};
+
